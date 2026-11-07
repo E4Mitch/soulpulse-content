@@ -1,0 +1,102 @@
+# Publishes the SoulPulse verse library.
+#
+# Started by the Google Sheet: "SoulPulse > Publish verse library" commits
+# the Sheet's Export tab here as source/export.csv, which runs this.
+# (It can also be run by hand: Actions > Publish verse library > Run workflow.)
+#
+# It checks every row with the app's own converter (tool/build_library.dart
+# in the private app repo, read with the deploy key in APP_REPO_DEPLOY_KEY).
+# If all rows are fine and something changed, it updates
+# library/verse_library.json + library/manifest.json, which apps pick up on
+# their next launch. The result (version or the rows to fix) always goes to
+# status/last_publish.json, which the Sheet's "Check last publish" shows.
+name: Publish verse library
+
+# SECURITY: this workflow holds the deploy key that can
+# read the private app repo. It must only run on push and workflow_dispatch.
+# Never add pull_request or pull_request_target (they can run code from
+# outside contributors). The job below also refuses any other trigger.
+on:
+  push:
+    branches: [main]
+    paths: [source/export.csv]
+  workflow_dispatch:
+    inputs:
+      allow_shrink:
+        description: Allow fewer verses (publish even if over 25% fewer verses than now)
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-library
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: content
+
+      - uses: actions/checkout@v4
+        with:
+          repository: E4Mitch/soulpulse
+          ssh-key: ${{ secrets.APP_REPO_DEPLOY_KEY }}
+          path: app
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.38.5
+          channel: stable
+          cache: true
+
+      - name: Check and build the library
+        id: build
+        continue-on-error: true
+        working-directory: app
+        env:
+          ALLOW_SHRINK: >-
+            ${{ (inputs.allow_shrink || contains(github.event.head_commit.message, '[allow fewer verses]')) && '--allow-shrink' || '' }}
+        run: |
+          flutter pub get
+          dart run tool/build_library.dart \
+            --csv ../content/source/export.csv \
+            --previous ../content/library/verse_library.json \
+            --out ../content/library \
+            --report ../content/status/last_publish.json \
+            $ALLOW_SHRINK
+
+      - name: Save the library and the result
+        if: always()
+        working-directory: content
+        run: |
+          git config user.name "SoulPulse library bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p library status
+          git add -A library status
+          if git diff --cached --quiet; then
+            echo "Nothing to save."
+            exit 0
+          fi
+          if [ -f library/manifest.json ] && git diff --cached --name-only | grep -q '^library/'; then
+            VERSION=$(grep -m1 '"libraryVersion"' library/manifest.json | tr -dc '0-9')
+            MSG="Verse library version $VERSION"
+          else
+            MSG="Publish result"
+          fi
+          git commit -q -m "$MSG"
+          git pull -q --rebase
+          git push -q
+          echo "$MSG" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Fail if the Sheet has problems
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "Library NOT published. See status/last_publish.json for the rows to fix."
+          exit 1
