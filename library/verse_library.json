@@ -1,0 +1,2744 @@
+{
+  "schemaVersion": 1,
+  "libraryVersion": 1,
+  "generated": "2026-11-08",
+  "source": "Google Sheet 'SoulPulse Verse Library'",
+  "focuses": [
+    "Anxiety & Worry",
+    "Fear",
+    "Peace",
+    "Hope",
+    "Healing",
+    "Grief & Loss",
+    "Strength",
+    "Love",
+    "Family",
+    "Guidance"
+  ],
+  "verses": [
+    {
+      "id": "SP-0001",
+      "reference": "Philippians 4:6-7",
+      "verseId": "PHP.4.6-7",
+      "location": {
+        "book": "PHP",
+        "chapter": 4,
+        "verseStart": 6,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Trade worry for prayer, and let His peace stand guard.",
+      "context": "Paul wrote this from imprisonment, so it comes from someone with real reasons to worry. He does not say problems disappear. He says to bring every concern to God with thanks, and God's peace will guard your heart and mind like a sentry.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0002",
+      "reference": "1 Peter 5:7",
+      "verseId": "1PE.5.7",
+      "location": {
+        "book": "1PE",
+        "chapter": 5,
+        "verseStart": 7,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Love"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "You can hand Him the weight. He cares for you.",
+      "context": "Peter wrote to believers scattered and facing hardship. \"Cast\" pictures throwing a heavy load onto someone else's shoulders. The reason given is simple: God personally cares about you.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0003",
+      "reference": "Matthew 6:34",
+      "verseId": "MAT.6.34",
+      "location": {
+        "book": "MAT",
+        "chapter": 6,
+        "verseStart": 34,
+        "verseEnd": 34
+      },
+      "focuses": [
+        "Anxiety & Worry"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Today has enough. Leave tomorrow with God.",
+      "context": "Jesus closes His teaching on worry in the Sermon on the Mount with a practical limit: carry today's load only. Tomorrow's troubles are real, but they are not yours to carry yet.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0004",
+      "reference": "Matthew 6:25-27",
+      "verseId": "MAT.6.25-27",
+      "location": {
+        "book": "MAT",
+        "chapter": 6,
+        "verseStart": 25,
+        "verseEnd": 27
+      },
+      "focuses": [
+        "Anxiety & Worry"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "If He feeds the birds, He sees you.",
+      "context": "Jesus points to birds that neither plant nor store food, yet are fed. If God cares for them, He cares more for you. He then asks a plain question: has worry ever added a single hour to your life?",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0005",
+      "reference": "Matthew 11:28-30",
+      "verseId": "MAT.11.28-30",
+      "location": {
+        "book": "MAT",
+        "chapter": 11,
+        "verseStart": 28,
+        "verseEnd": 30
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Come as you are, and rest.",
+      "context": "Jesus spoke to people worn down by heavy religious rules and hard lives. A yoke was a wooden frame for sharing a load. He offers to share yours, and calls Himself gentle and humble in heart.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0006",
+      "reference": "Isaiah 41:10",
+      "verseId": "ISA.41.10",
+      "location": {
+        "book": "ISA",
+        "chapter": 41,
+        "verseStart": 10,
+        "verseEnd": 10
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "You are not alone in this. He will hold you up.",
+      "context": "Spoken to Israel during exile, when the future looked uncertain. God gives three promises: I am with you, I will strengthen you, and I will hold you up with My right hand.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0007",
+      "reference": "John 14:27",
+      "verseId": "JHN.14.27",
+      "location": {
+        "book": "JHN",
+        "chapter": 14,
+        "verseStart": 27,
+        "verseEnd": 27
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear",
+        "Peace"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "His peace is not the world's peace.",
+      "context": "Jesus said this at the Last Supper, the night before His crucifixion. He knew His friends were about to be shaken. The peace He gives does not depend on circumstances going well.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0008",
+      "reference": "Isaiah 26:3",
+      "verseId": "ISA.26.3",
+      "location": {
+        "book": "ISA",
+        "chapter": 26,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "A mind fixed on Him is kept in peace.",
+      "context": "Part of a song of trust. In Hebrew, \"perfect peace\" is literally \"peace, peace,\" a doubled word for complete peace. It is promised to the person whose mind stays fixed on God.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0009",
+      "reference": "Psalm 94:18-19",
+      "verseId": "PSA.94.18-19",
+      "location": {
+        "book": "PSA",
+        "chapter": 94,
+        "verseStart": 18,
+        "verseEnd": 19
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "When thoughts multiply, His comfort is stronger.",
+      "context": "The psalmist admits his foot was slipping and his thoughts were racing. God's steady love and comfort met him there. It describes the overwhelmed, looping mind that anxiety produces.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0010",
+      "reference": "Psalm 55:22",
+      "verseId": "PSA.55.22",
+      "location": {
+        "book": "PSA",
+        "chapter": 55,
+        "verseStart": 22,
+        "verseEnd": 22
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Put it down. He will carry you.",
+      "context": "David wrote this psalm after betrayal by a close friend. Instead of carrying the hurt alone, he chooses to hand it to God, who will sustain him.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0011",
+      "reference": "Psalm 56:3",
+      "verseId": "PSA.56.3",
+      "location": {
+        "book": "PSA",
+        "chapter": 56,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Fear can be the moment you choose trust.",
+      "context": "The psalm's heading ties it to David being seized by the Philistines in Gath. He does not claim he was never afraid. He says when fear comes, he will trust.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0012",
+      "reference": "Proverbs 12:25",
+      "verseId": "PRO.12.25",
+      "location": {
+        "book": "PRO",
+        "chapter": 12,
+        "verseStart": 25,
+        "verseEnd": 25
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "A kind word can lift a heavy heart.",
+      "context": "Practical wisdom: anxiety weighs a person down, and a good word lifts them. A good verse to send to someone else who is struggling.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0013",
+      "reference": "Luke 12:25-26",
+      "verseId": "LUK.12.25-26",
+      "location": {
+        "book": "LUK",
+        "chapter": 12,
+        "verseStart": 25,
+        "verseEnd": 26
+      },
+      "focuses": [
+        "Anxiety & Worry"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Worry cannot add an hour. Trust can carry the day.",
+      "context": "Luke's account of Jesus' teaching on worry. If worry cannot change even a small thing like the length of life, it does not help with the big things either.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0014",
+      "reference": "2 Timothy 1:7",
+      "verseId": "2TI.1.7",
+      "location": {
+        "book": "2TI",
+        "chapter": 1,
+        "verseStart": 7,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Fear is not your spirit. Power, love and a sound mind are.",
+      "context": "Paul wrote this to Timothy, a young leader, near the end of Paul's life. Timothy faced pressure and opposition. Paul reminds him what God gave him: power, love and self-control, not timidity.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0015",
+      "reference": "Psalm 34:4",
+      "verseId": "PSA.34.4",
+      "location": {
+        "book": "PSA",
+        "chapter": 34,
+        "verseStart": 4,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He answers, and fear loosens its grip.",
+      "context": "The heading ties this psalm to David's escape from danger. His testimony is short: he sought the Lord, the Lord answered, and he was freed from all his fears.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0016",
+      "reference": "John 14:1",
+      "verseId": "JHN.14.1",
+      "location": {
+        "book": "JHN",
+        "chapter": 14,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace",
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Let your heart rest. Trust Him.",
+      "context": "Also spoken at the Last Supper. Jesus begins His farewell with this: do not let your hearts be troubled. Trust in God, and trust in Him.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0017",
+      "reference": "Psalm 46:1-2",
+      "verseId": "PSA.46.1-2",
+      "location": {
+        "book": "PSA",
+        "chapter": 46,
+        "verseStart": 1,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Even if everything shakes, He is your refuge.",
+      "context": "The psalm pictures the earth giving way and mountains falling into the sea, yet says we will not fear. God is a refuge and help that is always present. It inspired Luther's hymn \"A Mighty Fortress Is Our God.\"",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0018",
+      "reference": "Psalm 23:4",
+      "verseId": "PSA.23.4",
+      "location": {
+        "book": "PSA",
+        "chapter": 23,
+        "verseStart": 4,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "In the darkest valley, you do not walk alone.",
+      "context": "From the best-known psalm. David, a former shepherd, pictures God as a shepherd walking with him through the valley of the shadow of death. The rod and staff were the shepherd's tools for protecting and guiding.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0019",
+      "reference": "Jeremiah 17:7-8",
+      "verseId": "JER.17.7-8",
+      "location": {
+        "book": "JER",
+        "chapter": 17,
+        "verseStart": 7,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Rooted in Him, you can stay green in a drought.",
+      "context": "Jeremiah contrasts a person who trusts in people with one who trusts in God. The second is like a tree planted by water: when heat and drought come, it does not fear and keeps bearing fruit.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0020",
+      "reference": "Romans 8:28",
+      "verseId": "ROM.8.28",
+      "location": {
+        "book": "ROM",
+        "chapter": 8,
+        "verseStart": 28,
+        "verseEnd": 28
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Hope",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He is working, even in this.",
+      "context": "Paul does not say everything that happens is good. He says God works in all things for the good of those who love Him. It is a promise about God's purpose, not a denial of pain.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0021",
+      "reference": "Proverbs 3:5-6",
+      "verseId": "PRO.3.5-6",
+      "location": {
+        "book": "PRO",
+        "chapter": 3,
+        "verseStart": 5,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "You do not have to figure it all out.",
+      "context": "Wisdom for when the path is unclear. Trust God with your whole heart, do not rely only on your own understanding, and He will make your paths straight.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0022",
+      "reference": "Joshua 1:9",
+      "verseId": "JOS.1.9",
+      "location": {
+        "book": "JOS",
+        "chapter": 1,
+        "verseStart": 9,
+        "verseEnd": 9
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Be strong. He goes with you.",
+      "context": "God spoke this to Joshua as he took over leadership from Moses and faced entering an unknown land. The courage is commanded because of a promise: God will be with him wherever he goes.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0023",
+      "reference": "Psalm 62:8",
+      "verseId": "PSA.62.8",
+      "location": {
+        "book": "PSA",
+        "chapter": 62,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Pour out your heart. He can hold it.",
+      "context": "David invites people to trust God at all times and to pour out their hearts before Him. Honest prayer about what you are carrying is welcomed, not avoided.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0024",
+      "reference": "2 Thessalonians 3:16",
+      "verseId": "2TH.3.16",
+      "location": {
+        "book": "2TH",
+        "chapter": 3,
+        "verseStart": 16,
+        "verseEnd": 16
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Peace at all times, in every way.",
+      "context": "Paul closes his letter with a blessing: may the Lord of peace Himself give you peace at all times and in every way. It is a prayer you can pray for yourself or someone else.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0025",
+      "reference": "Psalm 27:1",
+      "verseId": "PSA.27.1",
+      "location": {
+        "book": "PSA",
+        "chapter": 27,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "With Him as your light, what is left to fear?",
+      "context": "David asks two questions that answer themselves: if the Lord is his light, salvation and stronghold, whom should he fear? Light here means guidance and safety in the dark.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0026",
+      "reference": "Deuteronomy 31:6",
+      "verseId": "DEU.31.6",
+      "location": {
+        "book": "DEU",
+        "chapter": 31,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He will not leave you or abandon you.",
+      "context": "Moses spoke this to Israel near the end of his life, before they entered the promised land without him. The courage rests on a promise: God goes with them and will never leave them.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0027",
+      "reference": "Isaiah 41:13",
+      "verseId": "ISA.41.13",
+      "location": {
+        "book": "ISA",
+        "chapter": 41,
+        "verseStart": 13,
+        "verseEnd": 13
+      },
+      "focuses": [
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He holds your right hand and says, do not fear.",
+      "context": "This follows Isaiah 41:10. The picture is personal: God takes your hand like a parent with a child and says, I will help you.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0028",
+      "reference": "1 John 4:18",
+      "verseId": "1JN.4.18",
+      "location": {
+        "book": "1JN",
+        "chapter": 4,
+        "verseStart": 18,
+        "verseEnd": 18
+      },
+      "focuses": [
+        "Fear",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "His perfect love pushes out fear.",
+      "context": "John writes that there is no fear in love. Knowing you are fully loved by God, not under threat of punishment, drives fear out.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0029",
+      "reference": "Psalm 91:1-2",
+      "verseId": "PSA.91.1-2",
+      "location": {
+        "book": "PSA",
+        "chapter": 91,
+        "verseStart": 1,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Fear",
+        "Peace",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Rest in the shadow of the Almighty.",
+      "context": "Psalm 91 was the most searched term in the YouVersion Bible App in 2026. It pictures living in God's shelter, like resting in the shade of someone strong, and calling Him my refuge and fortress.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0030",
+      "reference": "Psalm 91:4-5",
+      "verseId": "PSA.91.4-5",
+      "location": {
+        "book": "PSA",
+        "chapter": 91,
+        "verseStart": 4,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Fear"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Under His wings you will find refuge.",
+      "context": "The psalm pictures God like a bird covering its young with its wings. Because of that covering, you need not fear the terror of night or the arrow that flies by day.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0031",
+      "reference": "Isaiah 43:1-2",
+      "verseId": "ISA.43.1-2",
+      "location": {
+        "book": "ISA",
+        "chapter": 43,
+        "verseStart": 1,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Fear",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "You are His. The waters will not sweep you away.",
+      "context": "God speaks to Israel by name: I have redeemed you, you are Mine. He does not promise there will be no deep waters or fire, but that He will be with you in them.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0032",
+      "reference": "Hebrews 13:6",
+      "verseId": "HEB.13.6",
+      "location": {
+        "book": "HEB",
+        "chapter": 13,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "The Lord is your helper. You need not be afraid.",
+      "context": "The writer quotes Psalm 118 right after God's promise never to leave or forsake us. Because the Lord is our helper, what people can do loses its power to frighten.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0033",
+      "reference": "Psalm 118:6",
+      "verseId": "PSA.118.6",
+      "location": {
+        "book": "PSA",
+        "chapter": 118,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Fear"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "The Lord is on your side.",
+      "context": "A song of thanks after rescue. The psalmist's confidence comes from God's presence, not from his own strength.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0034",
+      "reference": "Romans 8:15",
+      "verseId": "ROM.8.15",
+      "location": {
+        "book": "ROM",
+        "chapter": 8,
+        "verseStart": 15,
+        "verseEnd": 15
+      },
+      "focuses": [
+        "Fear",
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "You are a child of God, not a slave to fear.",
+      "context": "Paul contrasts a spirit of slavery that leads back into fear with the Spirit of adoption. Believers can call God \"Abba,\" an Aramaic word a child uses for father.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0035",
+      "reference": "Mark 5:36",
+      "verseId": "MRK.5.36",
+      "location": {
+        "book": "MRK",
+        "chapter": 5,
+        "verseStart": 36,
+        "verseEnd": 36
+      },
+      "focuses": [
+        "Fear",
+        "Hope",
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Don't be afraid. Just believe.",
+      "context": "Jesus said this to Jairus right after hearing that his daughter had died. Jesus went on to raise her. He spoke to the fear before the outcome was visible.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0036",
+      "reference": "Psalm 112:7",
+      "verseId": "PSA.112.7",
+      "location": {
+        "book": "PSA",
+        "chapter": 112,
+        "verseStart": 7,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Fear",
+        "Peace"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "A steady heart is not afraid of bad news.",
+      "context": "This psalm describes a person who trusts God. Bad news may still come, but their heart is steady because it is anchored in the Lord.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0037",
+      "reference": "John 16:33",
+      "verseId": "JHN.16.33",
+      "location": {
+        "book": "JHN",
+        "chapter": 16,
+        "verseStart": 33,
+        "verseEnd": 33
+      },
+      "focuses": [
+        "Peace",
+        "Hope",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "In this world, trouble. In Him, peace.",
+      "context": "Jesus spoke this to His disciples at the end of the Last Supper. He is honest that trouble will come, then gives the reason for courage: He has overcome the world.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0038",
+      "reference": "Romans 15:13",
+      "verseId": "ROM.15.13",
+      "location": {
+        "book": "ROM",
+        "chapter": 15,
+        "verseStart": 13,
+        "verseEnd": 13
+      },
+      "focuses": [
+        "Peace",
+        "Hope"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "May hope overflow in you.",
+      "context": "Paul's prayer for the church in Rome: that the God of hope fills them with joy and peace as they trust Him, so that hope overflows by the power of the Holy Spirit.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0039",
+      "reference": "Numbers 6:24-26",
+      "verseId": "NUM.6.24-26",
+      "location": {
+        "book": "NUM",
+        "chapter": 6,
+        "verseStart": 24,
+        "verseEnd": 26
+      },
+      "focuses": [
+        "Peace",
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "May the Lord bless you and give you peace.",
+      "context": "The blessing God gave Aaron and the priests to speak over Israel. Many churches still close services with it, and it is a blessing to share with family.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0040",
+      "reference": "Psalm 4:8",
+      "verseId": "PSA.4.8",
+      "location": {
+        "book": "PSA",
+        "chapter": 4,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Lie down in peace. He keeps you safe.",
+      "context": "David wrote this as an evening prayer while in distress. He can sleep in peace because the Lord alone makes him dwell in safety. A good verse for nighttime anxiety.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0041",
+      "reference": "Colossians 3:15",
+      "verseId": "COL.3.15",
+      "location": {
+        "book": "COL",
+        "chapter": 3,
+        "verseStart": 15,
+        "verseEnd": 15
+      },
+      "focuses": [
+        "Peace",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Let His peace rule your heart.",
+      "context": "\"Rule\" comes from a word for an umpire. Paul tells the church to let Christ's peace make the call in their hearts and relationships, and to be thankful.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0042",
+      "reference": "Psalm 29:11",
+      "verseId": "PSA.29.11",
+      "location": {
+        "book": "PSA",
+        "chapter": 29,
+        "verseStart": 11,
+        "verseEnd": 11
+      },
+      "focuses": [
+        "Peace",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He gives strength and blesses with peace.",
+      "context": "The psalm describes God's power over a violent storm. It ends with that same power turned toward His people: strength and peace.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0043",
+      "reference": "Isaiah 9:6",
+      "verseId": "ISA.9.6",
+      "location": {
+        "book": "ISA",
+        "chapter": 9,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Peace",
+        "Hope"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Prince of Peace.",
+      "context": "A prophecy of a coming child, read every Christmas as pointing to Jesus. His names include Wonderful Counselor, Mighty God, Everlasting Father and Prince of Peace.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0044",
+      "reference": "Romans 5:1",
+      "verseId": "ROM.5.1",
+      "location": {
+        "book": "ROM",
+        "chapter": 5,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Peace"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Peace with God is already yours.",
+      "context": "Paul explains that through faith in Jesus we are made right with God. The first result is peace with God: a settled relationship, not just a calm feeling.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0045",
+      "reference": "Romans 8:6",
+      "verseId": "ROM.8.6",
+      "location": {
+        "book": "ROM",
+        "chapter": 8,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Peace",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "A mind set on the Spirit is life and peace.",
+      "context": "Paul contrasts a mind focused only on our own desires with a mind set on God's Spirit. What we dwell on shapes whether we experience life and peace.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0046",
+      "reference": "Isaiah 32:17",
+      "verseId": "ISA.32.17",
+      "location": {
+        "book": "ISA",
+        "chapter": 32,
+        "verseStart": 17,
+        "verseEnd": 17
+      },
+      "focuses": [
+        "Peace"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Righteousness brings quietness and trust.",
+      "context": "Isaiah describes the result of God's justice: peace, quietness and confidence that lasts. Peace is the fruit of living rightly before God.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0047",
+      "reference": "Philippians 4:8",
+      "verseId": "PHP.4.8",
+      "location": {
+        "book": "PHP",
+        "chapter": 4,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Peace",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Fix your thoughts on what is good.",
+      "context": "Right after his words on prayer and peace, Paul gives a list: whatever is true, noble, right, pure, lovely and admirable. Think about such things.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0048",
+      "reference": "Jeremiah 29:11",
+      "verseId": "JER.29.11",
+      "location": {
+        "book": "JER",
+        "chapter": 29,
+        "verseStart": 11,
+        "verseEnd": 11
+      },
+      "focuses": [
+        "Hope",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He has plans for your future and a hope.",
+      "context": "God spoke this through Jeremiah to Israelites in exile in Babylon. He told them the exile would last 70 years, so this is a promise of faithfulness through a long, hard season, not a quick fix.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0049",
+      "reference": "Lamentations 3:22-23",
+      "verseId": "LAM.3.22-23",
+      "location": {
+        "book": "LAM",
+        "chapter": 3,
+        "verseStart": 22,
+        "verseEnd": 23
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss",
+        "Love"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "His mercies are new every morning.",
+      "context": "Written in grief after Jerusalem was destroyed. In the middle of mourning, the writer remembers that God's steadfast love never ceases and His mercies begin fresh each morning.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0050",
+      "reference": "Isaiah 40:31",
+      "verseId": "ISA.40.31",
+      "location": {
+        "book": "ISA",
+        "chapter": 40,
+        "verseStart": 31,
+        "verseEnd": 31
+      },
+      "focuses": [
+        "Hope",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Wait on Him, and rise on wings like eagles.",
+      "context": "Spoken to a weary people who felt forgotten. Those who hope in the Lord renew their strength: they soar, run without growing weary, and walk without fainting.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0051",
+      "reference": "Romans 5:3-5",
+      "verseId": "ROM.5.3-5",
+      "location": {
+        "book": "ROM",
+        "chapter": 5,
+        "verseStart": 3,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Hope",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Suffering can grow into a hope that holds.",
+      "context": "Paul describes a chain: suffering produces endurance, endurance produces character, and character produces hope. That hope does not disappoint because God's love has been poured into our hearts.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0052",
+      "reference": "Hebrews 11:1",
+      "verseId": "HEB.11.1",
+      "location": {
+        "book": "HEB",
+        "chapter": 11,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Hope",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Faith holds on to what you cannot see yet.",
+      "context": "The opening of the chapter often called the hall of faith. Faith is described as confidence in what we hope for and assurance about what we do not see.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0053",
+      "reference": "Psalm 42:11",
+      "verseId": "PSA.42.11",
+      "location": {
+        "book": "PSA",
+        "chapter": 42,
+        "verseStart": 11,
+        "verseEnd": 11
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Talk to your soul. Put your hope in God.",
+      "context": "The psalmist asks himself why his soul is downcast and troubled, then answers: hope in God, for I will yet praise Him. It models speaking truth to your own discouragement.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0054",
+      "reference": "Hebrews 6:19",
+      "verseId": "HEB.6.19",
+      "location": {
+        "book": "HEB",
+        "chapter": 6,
+        "verseStart": 19,
+        "verseEnd": 19
+      },
+      "focuses": [
+        "Peace",
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Hope is an anchor for your soul.",
+      "context": "The writer calls hope in God's promises an anchor, firm and secure. An anchor does not stop the storm, but it keeps the ship from drifting.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0055",
+      "reference": "1 Peter 1:3",
+      "verseId": "1PE.1.3",
+      "location": {
+        "book": "1PE",
+        "chapter": 1,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "A living hope, because He lives.",
+      "context": "Peter praises God for giving new birth into a living hope through the resurrection of Jesus. The hope is called living because it rests on someone who is alive.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0056",
+      "reference": "Romans 12:12",
+      "verseId": "ROM.12.12",
+      "location": {
+        "book": "ROM",
+        "chapter": 12,
+        "verseStart": 12,
+        "verseEnd": 12
+      },
+      "focuses": [
+        "Hope",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Joyful in hope, patient in trouble.",
+      "context": "A short line in Paul's list of how believers should live: be joyful in hope, patient in affliction, and faithful in prayer.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0057",
+      "reference": "Psalm 130:5",
+      "verseId": "PSA.130.5",
+      "location": {
+        "book": "PSA",
+        "chapter": 130,
+        "verseStart": 5,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Wait for the Lord. Hope in His word.",
+      "context": "Psalm 130 begins in the depths of distress. The writer waits for the Lord more than watchmen wait for morning, putting his hope in God's word.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0058",
+      "reference": "Micah 7:7",
+      "verseId": "MIC.7.7",
+      "location": {
+        "book": "MIC",
+        "chapter": 7,
+        "verseStart": 7,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Hope"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Watch for Him. He will hear you.",
+      "context": "Micah wrote during a time of widespread corruption, when even friends could not be trusted. His response is to watch in hope for the Lord, confident that God will hear him.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0059",
+      "reference": "Psalm 31:24",
+      "verseId": "PSA.31.24",
+      "location": {
+        "book": "PSA",
+        "chapter": 31,
+        "verseStart": 24,
+        "verseEnd": 24
+      },
+      "focuses": [
+        "Hope",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Be strong and take heart, all who hope in Him.",
+      "context": "David closes a psalm written in distress and opposition with encouragement to others: be strong and courageous, all who hope in the Lord.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0060",
+      "reference": "Romans 8:18",
+      "verseId": "ROM.8.18",
+      "location": {
+        "book": "ROM",
+        "chapter": 8,
+        "verseStart": 18,
+        "verseEnd": 18
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Present pain is not the end of the story.",
+      "context": "Paul does not minimize suffering. He compares it with the glory to come and says the present pain cannot compare with what God will reveal.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0061",
+      "reference": "Revelation 21:4",
+      "verseId": "REV.21.4",
+      "location": {
+        "book": "REV",
+        "chapter": 21,
+        "verseStart": 4,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Hope",
+        "Healing",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He will wipe away every tear.",
+      "context": "John's vision of the new heaven and new earth. God Himself will wipe away every tear, and there will be no more death, mourning, crying or pain.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0062",
+      "reference": "Philippians 4:13",
+      "verseId": "PHP.4.13",
+      "location": {
+        "book": "PHP",
+        "chapter": 4,
+        "verseStart": 13,
+        "verseEnd": 13
+      },
+      "focuses": [
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Strength for whatever today holds.",
+      "context": "Often quoted alone, but Paul is talking about contentment. He learned to be content with much or little, and he could face either through Christ who gives him strength.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0063",
+      "reference": "2 Corinthians 12:9",
+      "verseId": "2CO.12.9",
+      "location": {
+        "book": "2CO",
+        "chapter": 12,
+        "verseStart": 9,
+        "verseEnd": 9
+      },
+      "focuses": [
+        "Healing",
+        "Strength"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "His grace is enough, even in weakness.",
+      "context": "Paul asked God three times to remove a painful \"thorn in the flesh.\" God's answer was not removal but grace: My power is made perfect in weakness.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0064",
+      "reference": "Psalm 73:26",
+      "verseId": "PSA.73.26",
+      "location": {
+        "book": "PSA",
+        "chapter": 73,
+        "verseStart": 26,
+        "verseEnd": 26
+      },
+      "focuses": [
+        "Healing",
+        "Grief & Loss",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "When your strength fails, He does not.",
+      "context": "Asaph admits his body and heart may fail. God remains the strength of his heart and his portion forever.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0065",
+      "reference": "Nehemiah 8:10",
+      "verseId": "NEH.8.10",
+      "location": {
+        "book": "NEH",
+        "chapter": 8,
+        "verseStart": 10,
+        "verseEnd": 10
+      },
+      "focuses": [
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "The joy of the Lord is your strength.",
+      "context": "The people wept when they heard God's law read after returning from exile. Nehemiah told them not to grieve that day, because joy in the Lord would be their strength.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0066",
+      "reference": "Psalm 18:2",
+      "verseId": "PSA.18.2",
+      "location": {
+        "book": "PSA",
+        "chapter": 18,
+        "verseStart": 2,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Fear",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He is your rock and your fortress.",
+      "context": "David wrote this after God rescued him from Saul. He stacks up pictures of safety: rock, fortress, deliverer, shield and stronghold.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0067",
+      "reference": "Ephesians 6:10",
+      "verseId": "EPH.6.10",
+      "location": {
+        "book": "EPH",
+        "chapter": 6,
+        "verseStart": 10,
+        "verseEnd": 10
+      },
+      "focuses": [
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Be strong in the Lord, not just in yourself.",
+      "context": "Paul introduces the armor of God passage. The strength he means comes from the Lord's mighty power, not human effort.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0068",
+      "reference": "Psalm 28:7",
+      "verseId": "PSA.28.7",
+      "location": {
+        "book": "PSA",
+        "chapter": 28,
+        "verseStart": 7,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Hope",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He is your strength and shield.",
+      "context": "After crying out for help, David says his heart trusts in God and he is helped. His response is joy and a song of thanks.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0069",
+      "reference": "Isaiah 40:29",
+      "verseId": "ISA.40.29",
+      "location": {
+        "book": "ISA",
+        "chapter": 40,
+        "verseStart": 29,
+        "verseEnd": 29
+      },
+      "focuses": [
+        "Healing",
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He gives power to the weary.",
+      "context": "Just before the eagles verse, Isaiah says God never grows tired. He gives strength to the weary and increases the power of the weak.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0070",
+      "reference": "Habakkuk 3:19",
+      "verseId": "HAB.3.19",
+      "location": {
+        "book": "HAB",
+        "chapter": 3,
+        "verseStart": 19,
+        "verseEnd": 19
+      },
+      "focuses": [
+        "Strength"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He makes your feet like a deer's on the heights.",
+      "context": "Habakkuk ends his book choosing joy even if crops fail and herds are gone. God makes him sure-footed like a deer on rough, high ground.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0071",
+      "reference": "Psalm 121:1-2",
+      "verseId": "PSA.121.1-2",
+      "location": {
+        "book": "PSA",
+        "chapter": 121,
+        "verseStart": 1,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Fear",
+        "Strength",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Your help comes from the Lord.",
+      "context": "A song for pilgrims traveling to Jerusalem through the hills. Looking at the hills, the traveler says help comes not from them but from the Lord, the maker of heaven and earth.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0072",
+      "reference": "Jeremiah 17:14",
+      "verseId": "JER.17.14",
+      "location": {
+        "book": "JER",
+        "chapter": 17,
+        "verseStart": 14,
+        "verseEnd": 14
+      },
+      "focuses": [
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Heal me, Lord, and I will be healed.",
+      "context": "A prayer from Jeremiah during persecution. He trusts that real healing and rescue come from God, and he praises God as he asks.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0073",
+      "reference": "Psalm 147:3",
+      "verseId": "PSA.147.3",
+      "location": {
+        "book": "PSA",
+        "chapter": 147,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Healing",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He heals the brokenhearted.",
+      "context": "The same God who counts the stars, the psalm says, binds up the wounds of the brokenhearted. His care reaches both the vast and the very personal.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0074",
+      "reference": "Isaiah 53:5",
+      "verseId": "ISA.53.5",
+      "location": {
+        "book": "ISA",
+        "chapter": 53,
+        "verseStart": 5,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Healing",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "By His wounds we are healed.",
+      "context": "Isaiah describes a suffering servant, whom Christians read as pointing to Jesus. He was wounded for our wrongdoing, and His punishment brought us peace and healing.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0075",
+      "reference": "James 5:14-15",
+      "verseId": "JAS.5.14-15",
+      "location": {
+        "book": "JAS",
+        "chapter": 5,
+        "verseStart": 14,
+        "verseEnd": 15
+      },
+      "focuses": [
+        "Healing",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Pray together. Ask for prayer.",
+      "context": "James tells the sick to call the church elders to pray over them and anoint them with oil. Healing is placed within community and prayer, not carried alone.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0076",
+      "reference": "Psalm 103:2-3",
+      "verseId": "PSA.103.2-3",
+      "location": {
+        "book": "PSA",
+        "chapter": 103,
+        "verseStart": 2,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Remember all He has done.",
+      "context": "David tells his own soul not to forget God's benefits: He forgives all sins and heals diseases. Remembering past care builds trust for the present.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0077",
+      "reference": "Jeremiah 30:17",
+      "verseId": "JER.30.17",
+      "location": {
+        "book": "JER",
+        "chapter": 30,
+        "verseStart": 17,
+        "verseEnd": 17
+      },
+      "focuses": [
+        "Hope",
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He will restore you and heal your wounds.",
+      "context": "A promise to Israel after judgment and exile, when they were called outcasts. God says He will restore their health and heal their wounds.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0078",
+      "reference": "Exodus 15:26",
+      "verseId": "EXO.15.26",
+      "location": {
+        "book": "EXO",
+        "chapter": 15,
+        "verseStart": 26,
+        "verseEnd": 26
+      },
+      "focuses": [
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "I am the Lord who heals you.",
+      "context": "Spoken soon after Israel left Egypt, when God made the bitter water at Marah drinkable. He reveals Himself with a name: the Lord who heals you.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0079",
+      "reference": "Psalm 30:2",
+      "verseId": "PSA.30.2",
+      "location": {
+        "book": "PSA",
+        "chapter": 30,
+        "verseStart": 2,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "You cried out, and He answered.",
+      "context": "David's song of thanks after recovery. He called to God for help and was healed, and he turns that experience into praise.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0080",
+      "reference": "Mark 5:34",
+      "verseId": "MRK.5.34",
+      "location": {
+        "book": "MRK",
+        "chapter": 5,
+        "verseStart": 34,
+        "verseEnd": 34
+      },
+      "focuses": [
+        "Peace",
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Go in peace. Be freed from your suffering.",
+      "context": "A woman who had been bleeding for twelve years touched Jesus' cloak. He stopped, called her \"daughter,\" and healed her body while restoring her dignity in front of the crowd.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0081",
+      "reference": "Proverbs 17:22",
+      "verseId": "PRO.17.22",
+      "location": {
+        "book": "PRO",
+        "chapter": 17,
+        "verseStart": 22,
+        "verseEnd": 22
+      },
+      "focuses": [
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "A cheerful heart is good medicine.",
+      "context": "Practical wisdom that the heart and body are connected. Joy brings health, and a crushed spirit dries up a person's strength.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0082",
+      "reference": "Psalm 41:3",
+      "verseId": "PSA.41.3",
+      "location": {
+        "book": "PSA",
+        "chapter": 41,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He sustains you on your sickbed.",
+      "context": "The psalm describes God caring for a person who is ill, sustaining them and restoring them from their bed of sickness.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0083",
+      "reference": "3 John 1:2",
+      "verseId": "3JN.1.2",
+      "location": {
+        "book": "3JN",
+        "chapter": 1,
+        "verseStart": 2,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Healing",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Praying for your health in body and soul.",
+      "context": "John's greeting to his friend Gaius. He prays that Gaius will enjoy good health and that all will go well, just as his soul is doing well.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0084",
+      "reference": "Psalm 6:2",
+      "verseId": "PSA.6.2",
+      "location": {
+        "book": "PSA",
+        "chapter": 6,
+        "verseStart": 2,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Be gracious to me. I am weak.",
+      "context": "David prays honestly from weakness and distress, saying even his bones are troubled. Scripture makes room for prayers that admit pain.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0085",
+      "reference": "Isaiah 58:8",
+      "verseId": "ISA.58.8",
+      "location": {
+        "book": "ISA",
+        "chapter": 58,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Hope",
+        "Healing"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Your healing will spring up quickly.",
+      "context": "God tells Israel that true worship includes caring for the hungry and oppressed. When they do, light will break out like the dawn and healing will come.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0086",
+      "reference": "Matthew 9:35-36",
+      "verseId": "MAT.9.35-36",
+      "location": {
+        "book": "MAT",
+        "chapter": 9,
+        "verseStart": 35,
+        "verseEnd": 36
+      },
+      "focuses": [
+        "Healing",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He sees the crowds with compassion.",
+      "context": "Jesus traveled through towns teaching and healing every disease. When He saw the crowds, He had compassion, because they were harassed and helpless, like sheep without a shepherd.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0087",
+      "reference": "Psalm 34:18",
+      "verseId": "PSA.34.18",
+      "location": {
+        "book": "PSA",
+        "chapter": 34,
+        "verseStart": 18,
+        "verseEnd": 18
+      },
+      "focuses": [
+        "Healing",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He is close to the brokenhearted.",
+      "context": "David writes that the Lord is near to those whose hearts are broken and saves those crushed in spirit. God moves toward grief, not away from it.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0088",
+      "reference": "Matthew 5:4",
+      "verseId": "MAT.5.4",
+      "location": {
+        "book": "MAT",
+        "chapter": 5,
+        "verseStart": 4,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Those who mourn will be comforted.",
+      "context": "One of the Beatitudes at the start of the Sermon on the Mount. Jesus calls those who mourn blessed, not because grief is good, but because comfort is promised.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0089",
+      "reference": "John 11:35",
+      "verseId": "JHN.11.35",
+      "location": {
+        "book": "JHN",
+        "chapter": 11,
+        "verseStart": 35,
+        "verseEnd": 35
+      },
+      "focuses": [
+        "Grief & Loss",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Jesus wept.",
+      "context": "The shortest verse in most English Bibles. At the tomb of His friend Lazarus, Jesus wept, even knowing He was about to raise him. Grief is not a lack of faith.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0090",
+      "reference": "2 Corinthians 1:3-4",
+      "verseId": "2CO.1.3-4",
+      "location": {
+        "book": "2CO",
+        "chapter": 1,
+        "verseStart": 3,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Healing",
+        "Grief & Loss",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "The God of all comfort comforts you.",
+      "context": "Paul calls God the Father of compassion and the God of all comfort. The comfort we receive in our troubles becomes something we can give to others.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0091",
+      "reference": "1 Thessalonians 4:13-14",
+      "verseId": "1TH.4.13-14",
+      "location": {
+        "book": "1TH",
+        "chapter": 4,
+        "verseStart": 13,
+        "verseEnd": 14
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Grieve, but not without hope.",
+      "context": "Paul wrote to believers whose loved ones had died. He does not tell them not to grieve. He says they grieve differently, with hope in the resurrection.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0092",
+      "reference": "John 14:2-3",
+      "verseId": "JHN.14.2-3",
+      "location": {
+        "book": "JHN",
+        "chapter": 14,
+        "verseStart": 2,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He is preparing a place.",
+      "context": "At the Last Supper, Jesus tells His friends there are many rooms in His Father's house, and He is going to prepare a place for them. Often read at funerals.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0093",
+      "reference": "Psalm 30:5",
+      "verseId": "PSA.30.5",
+      "location": {
+        "book": "PSA",
+        "chapter": 30,
+        "verseStart": 5,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Weeping may stay the night. Joy comes in the morning.",
+      "context": "David's song after recovery. Sorrow is real and may last through the night, but it is not the final word.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0094",
+      "reference": "Ecclesiastes 3:1-4",
+      "verseId": "ECC.3.1-4",
+      "location": {
+        "book": "ECC",
+        "chapter": 3,
+        "verseStart": 1,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Grief & Loss",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "There is a time to weep and a time to laugh.",
+      "context": "A poem about the seasons of life: a time to be born and a time to die, a time to mourn and a time to dance. It gives permission for each season, including grief.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0095",
+      "reference": "Isaiah 61:1-3",
+      "verseId": "ISA.61.1-3",
+      "location": {
+        "book": "ISA",
+        "chapter": 61,
+        "verseStart": 1,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Hope",
+        "Healing",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Beauty for ashes.",
+      "context": "Jesus read part of this prophecy aloud in Nazareth to describe His mission. It promises comfort for those who mourn: beauty instead of ashes and joy instead of mourning.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0096",
+      "reference": "Lamentations 3:31-33",
+      "verseId": "LAM.3.31-33",
+      "location": {
+        "book": "LAM",
+        "chapter": 3,
+        "verseStart": 31,
+        "verseEnd": 33
+      },
+      "focuses": [
+        "Grief & Loss",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Grief is not His final word.",
+      "context": "Written amid national grief. The writer trusts that God does not cast off forever, and though He allows grief, He will show compassion according to His great love.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0097",
+      "reference": "John 16:22",
+      "verseId": "JHN.16.22",
+      "location": {
+        "book": "JHN",
+        "chapter": 16,
+        "verseStart": 22,
+        "verseEnd": 22
+      },
+      "focuses": [
+        "Hope",
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Your grief will turn to joy.",
+      "context": "Jesus told His disciples they would grieve His death, but He would see them again, and no one would take away their joy.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0098",
+      "reference": "Romans 8:38-39",
+      "verseId": "ROM.8.38-39",
+      "location": {
+        "book": "ROM",
+        "chapter": 8,
+        "verseStart": 38,
+        "verseEnd": 39
+      },
+      "focuses": [
+        "Fear",
+        "Grief & Loss",
+        "Love"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Nothing can separate you from His love.",
+      "context": "Paul lists everything that might seem to cut us off from God: death, life, angels, the present, the future. None of it can separate us from God's love in Christ.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0099",
+      "reference": "Psalm 116:15",
+      "verseId": "PSA.116.15",
+      "location": {
+        "book": "PSA",
+        "chapter": 116,
+        "verseStart": 15,
+        "verseEnd": 15
+      },
+      "focuses": [
+        "Grief & Loss"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Your loved ones are precious to Him.",
+      "context": "The psalm says the death of God's faithful people is precious in His sight. Their lives and their passing matter deeply to Him.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0100",
+      "reference": "Psalm 56:8",
+      "verseId": "PSA.56.8",
+      "location": {
+        "book": "PSA",
+        "chapter": 56,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Grief & Loss",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He keeps track of every tear.",
+      "context": "David pictures God recording his wanderings and collecting his tears in a bottle. No sorrow goes unnoticed.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0101",
+      "reference": "John 3:16",
+      "verseId": "JHN.3.16",
+      "location": {
+        "book": "JHN",
+        "chapter": 3,
+        "verseStart": 16,
+        "verseEnd": 16
+      },
+      "focuses": [
+        "Hope",
+        "Love"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "This is how much He loves you.",
+      "context": "Jesus spoke this to Nicodemus, a religious leader who came to Him at night with questions. It is likely the best-known verse in the Bible.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0102",
+      "reference": "1 Corinthians 13:4-7",
+      "verseId": "1CO.13.4-7",
+      "location": {
+        "book": "1CO",
+        "chapter": 13,
+        "verseStart": 4,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Love is patient, love is kind.",
+      "context": "Paul wrote this to a divided church, not originally for weddings. It describes love in action: patient, kind, not proud, keeping no record of wrongs.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0103",
+      "reference": "Romans 5:8",
+      "verseId": "ROM.5.8",
+      "location": {
+        "book": "ROM",
+        "chapter": 5,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He loved you before you got it right.",
+      "context": "Paul points out that God showed His love while we were still sinners. His love did not wait for us to improve.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0104",
+      "reference": "1 John 4:19",
+      "verseId": "1JN.4.19",
+      "location": {
+        "book": "1JN",
+        "chapter": 4,
+        "verseStart": 19,
+        "verseEnd": 19
+      },
+      "focuses": [
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "We love because He loved first.",
+      "context": "John's short summary: our love for God and others is a response to His love for us.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0105",
+      "reference": "Zephaniah 3:17",
+      "verseId": "ZEP.3.17",
+      "location": {
+        "book": "ZEP",
+        "chapter": 3,
+        "verseStart": 17,
+        "verseEnd": 17
+      },
+      "focuses": [
+        "Peace",
+        "Love"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He rejoices over you with singing.",
+      "context": "A prophet's picture of God among His people as a mighty savior who delights in them, quiets them with His love, and sings over them.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0106",
+      "reference": "Jeremiah 31:3",
+      "verseId": "JER.31.3",
+      "location": {
+        "book": "JER",
+        "chapter": 31,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Loved with an everlasting love.",
+      "context": "God speaks to Israel after long hardship: I have loved you with an everlasting love and drawn you with unfailing kindness.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0107",
+      "reference": "1 John 3:1",
+      "verseId": "1JN.3.1",
+      "location": {
+        "book": "1JN",
+        "chapter": 3,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "You are called a child of God.",
+      "context": "John marvels at how great God's love is, that we should be called His children. It is an identity given, not earned.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0108",
+      "reference": "Ephesians 3:17-19",
+      "verseId": "EPH.3.17-19",
+      "location": {
+        "book": "EPH",
+        "chapter": 3,
+        "verseStart": 17,
+        "verseEnd": 19
+      },
+      "focuses": [
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Wide, long, high and deep.",
+      "context": "Paul prays that believers would grasp how wide, long, high and deep Christ's love is, a love that goes beyond knowledge.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0109",
+      "reference": "John 15:12-13",
+      "verseId": "JHN.15.12-13",
+      "location": {
+        "book": "JHN",
+        "chapter": 15,
+        "verseStart": 12,
+        "verseEnd": 13
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Love one another as He loved you.",
+      "context": "At the Last Supper, Jesus commands His followers to love each other as He loved them. The greatest love, He says, is laying down one's life for friends.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0110",
+      "reference": "1 Peter 4:8",
+      "verseId": "1PE.4.8",
+      "location": {
+        "book": "1PE",
+        "chapter": 4,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Love covers a multitude of sins.",
+      "context": "Peter urges believers to love each other deeply. That kind of love is willing to forgive and not keep score.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0111",
+      "reference": "Isaiah 54:10",
+      "verseId": "ISA.54.10",
+      "location": {
+        "book": "ISA",
+        "chapter": 54,
+        "verseStart": 10,
+        "verseEnd": 10
+      },
+      "focuses": [
+        "Peace",
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "His love will not be shaken.",
+      "context": "God says the mountains may be shaken and the hills removed, but His unfailing love and His covenant of peace will not be removed.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0112",
+      "reference": "Psalm 136:1",
+      "verseId": "PSA.136.1",
+      "location": {
+        "book": "PSA",
+        "chapter": 136,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "His love endures forever.",
+      "context": "A psalm of thanks that repeats one line 26 times: His love endures forever. It was likely sung with the congregation answering each line.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0113",
+      "reference": "John 13:34-35",
+      "verseId": "JHN.13.34-35",
+      "location": {
+        "book": "JHN",
+        "chapter": 13,
+        "verseStart": 34,
+        "verseEnd": 35
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Love is how people will know.",
+      "context": "Jesus gives a new command at the Last Supper: love one another as I have loved you. This love will show the world who His followers are.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0114",
+      "reference": "1 Corinthians 16:14",
+      "verseId": "1CO.16.14",
+      "location": {
+        "book": "1CO",
+        "chapter": 16,
+        "verseStart": 14,
+        "verseEnd": 14
+      },
+      "focuses": [
+        "Love"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Do everything in love.",
+      "context": "One of Paul's closing instructions to the Corinthian church: let all that you do be done in love.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0115",
+      "reference": "Colossians 3:14",
+      "verseId": "COL.3.14",
+      "location": {
+        "book": "COL",
+        "chapter": 3,
+        "verseStart": 14,
+        "verseEnd": 14
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Love holds it all together.",
+      "context": "After listing compassion, kindness, humility, gentleness and patience, Paul says to put on love above all, which binds everything together in unity.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0116",
+      "reference": "Joshua 24:15",
+      "verseId": "JOS.24.15",
+      "location": {
+        "book": "JOS",
+        "chapter": 24,
+        "verseStart": 15,
+        "verseEnd": 15
+      },
+      "focuses": [
+        "Family",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "As for me and my house.",
+      "context": "Joshua's challenge to Israel near the end of his life: choose today whom you will serve. He states his own family's decision first: we will serve the Lord.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0117",
+      "reference": "Ephesians 4:2-3",
+      "verseId": "EPH.4.2-3",
+      "location": {
+        "book": "EPH",
+        "chapter": 4,
+        "verseStart": 2,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Peace",
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Bear with one another in love.",
+      "context": "Paul urges humility, gentleness and patience, bearing with one another in love, and working to keep unity through peace. Practical words for any household.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0118",
+      "reference": "Colossians 3:13",
+      "verseId": "COL.3.13",
+      "location": {
+        "book": "COL",
+        "chapter": 3,
+        "verseStart": 13,
+        "verseEnd": 13
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Forgive as you have been forgiven.",
+      "context": "Paul tells believers to bear with each other and forgive grievances, because the Lord forgave them. Forgiveness is modeled, not just commanded.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0119",
+      "reference": "Proverbs 22:6",
+      "verseId": "PRO.22.6",
+      "location": {
+        "book": "PRO",
+        "chapter": 22,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Family",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Start them on the right path.",
+      "context": "A proverb about raising children: train a child in the way they should go. Proverbs describe how life generally works, not guarantees.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0120",
+      "reference": "Psalm 127:3",
+      "verseId": "PSA.127.3",
+      "location": {
+        "book": "PSA",
+        "chapter": 127,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Children are a gift.",
+      "context": "A psalm attributed to Solomon. It calls children a heritage and reward from the Lord, a gift entrusted to parents.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0121",
+      "reference": "Deuteronomy 6:6-7",
+      "verseId": "DEU.6.6-7",
+      "location": {
+        "book": "DEU",
+        "chapter": 6,
+        "verseStart": 6,
+        "verseEnd": 7
+      },
+      "focuses": [
+        "Family",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Talk about faith at home, along the way.",
+      "context": "Moses tells parents to keep God's words on their hearts and talk about them with their children at home, on the road, at bedtime and in the morning.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0122",
+      "reference": "Ruth 1:16",
+      "verseId": "RUT.1.16",
+      "location": {
+        "book": "RUT",
+        "chapter": 1,
+        "verseStart": 16,
+        "verseEnd": 16
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Where you go, I will go.",
+      "context": "Ruth speaks this to her widowed mother-in-law Naomi, refusing to leave her. It is a picture of loyal, chosen family, often read at weddings.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0123",
+      "reference": "Ecclesiastes 4:9-10",
+      "verseId": "ECC.4.9-10",
+      "location": {
+        "book": "ECC",
+        "chapter": 4,
+        "verseStart": 9,
+        "verseEnd": 10
+      },
+      "focuses": [
+        "Strength",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Two are better than one.",
+      "context": "The writer observes that two people working together do better, and if one falls, the other can help them up. A verse about friendship and marriage.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0124",
+      "reference": "Exodus 20:12",
+      "verseId": "EXO.20.12",
+      "location": {
+        "book": "EXO",
+        "chapter": 20,
+        "verseStart": 12,
+        "verseEnd": 12
+      },
+      "focuses": [
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Honor your father and mother.",
+      "context": "One of the Ten Commandments, and the first with a promise attached: that your days may be long in the land.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0125",
+      "reference": "Ephesians 6:4",
+      "verseId": "EPH.6.4",
+      "location": {
+        "book": "EPH",
+        "chapter": 6,
+        "verseStart": 4,
+        "verseEnd": 4
+      },
+      "focuses": [
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Raise them with patience, not provocation.",
+      "context": "Paul tells fathers not to provoke their children to anger, but to bring them up in the training and instruction of the Lord.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0126",
+      "reference": "Psalm 133:1",
+      "verseId": "PSA.133.1",
+      "location": {
+        "book": "PSA",
+        "chapter": 133,
+        "verseStart": 1,
+        "verseEnd": 1
+      },
+      "focuses": [
+        "Peace",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "How good it is to live in unity.",
+      "context": "A short song of ascent: how good and pleasant it is when God's people live together in unity.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0127",
+      "reference": "Genesis 2:24",
+      "verseId": "GEN.2.24",
+      "location": {
+        "book": "GEN",
+        "chapter": 2,
+        "verseStart": 24,
+        "verseEnd": 24
+      },
+      "focuses": [
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Two become one.",
+      "context": "From the creation account, later quoted by Jesus and Paul. A man leaves his father and mother and is united to his wife, and they become one flesh.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0128",
+      "reference": "Psalm 68:5-6",
+      "verseId": "PSA.68.5-6",
+      "location": {
+        "book": "PSA",
+        "chapter": 68,
+        "verseStart": 5,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Grief & Loss",
+        "Love",
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "God sets the lonely in families.",
+      "context": "God is described as a father to the fatherless and a defender of widows. He places the lonely in families.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0129",
+      "reference": "Proverbs 17:6",
+      "verseId": "PRO.17.6",
+      "location": {
+        "book": "PRO",
+        "chapter": 17,
+        "verseStart": 6,
+        "verseEnd": 6
+      },
+      "focuses": [
+        "Family"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Generations are a blessing to each other.",
+      "context": "A proverb celebrating family across generations: grandchildren are a crown to the aged, and parents are the pride of their children.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0130",
+      "reference": "Psalm 32:8",
+      "verseId": "PSA.32.8",
+      "location": {
+        "book": "PSA",
+        "chapter": 32,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "He will teach you the way to go.",
+      "context": "God speaks in this psalm: I will instruct you and teach you in the way you should go, and counsel you with My eye on you.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0131",
+      "reference": "Psalm 119:105",
+      "verseId": "PSA.119.105",
+      "location": {
+        "book": "PSA",
+        "chapter": 119,
+        "verseStart": 105,
+        "verseEnd": 105
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "A lamp for your next step.",
+      "context": "From the longest psalm, which is all about God's word. An ancient oil lamp lit only a few steps ahead, enough for the next step, not the whole road.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0132",
+      "reference": "Isaiah 30:21",
+      "verseId": "ISA.30.21",
+      "location": {
+        "book": "ISA",
+        "chapter": 30,
+        "verseStart": 21,
+        "verseEnd": 21
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "This is the way. Walk in it.",
+      "context": "God promises His people that whether they turn right or left, they will hear a word behind them saying, this is the way, walk in it.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0133",
+      "reference": "James 1:5",
+      "verseId": "JAS.1.5",
+      "location": {
+        "book": "JAS",
+        "chapter": 1,
+        "verseStart": 5,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Ask for wisdom. He gives generously.",
+      "context": "James tells those who lack wisdom to ask God, who gives generously to all without finding fault.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0134",
+      "reference": "Proverbs 16:9",
+      "verseId": "PRO.16.9",
+      "location": {
+        "book": "PRO",
+        "chapter": 16,
+        "verseStart": 9,
+        "verseEnd": 9
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "You plan the way. He directs the steps.",
+      "context": "A proverb holding both sides: people make plans in their hearts, but the Lord establishes their steps.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0135",
+      "reference": "Romans 12:2",
+      "verseId": "ROM.12.2",
+      "location": {
+        "book": "ROM",
+        "chapter": 12,
+        "verseStart": 2,
+        "verseEnd": 2
+      },
+      "focuses": [
+        "Peace",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Let your mind be renewed.",
+      "context": "Paul urges believers not to be conformed to the pattern of this world but transformed by the renewing of their minds, so they can discern God's will.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0136",
+      "reference": "Psalm 37:23-24",
+      "verseId": "PSA.37.23-24",
+      "location": {
+        "book": "PSA",
+        "chapter": 37,
+        "verseStart": 23,
+        "verseEnd": 24
+      },
+      "focuses": [
+        "Strength",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He steadies your steps, even when you stumble.",
+      "context": "David writes that the Lord makes firm the steps of the one who delights in Him. Though they stumble, they will not fall, because the Lord holds their hand.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0137",
+      "reference": "John 16:13",
+      "verseId": "JHN.16.13",
+      "location": {
+        "book": "JHN",
+        "chapter": 16,
+        "verseStart": 13,
+        "verseEnd": 13
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "The Spirit will guide you into truth.",
+      "context": "Jesus promises His disciples that the Spirit of truth will come and guide them into all truth.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0138",
+      "reference": "Proverbs 16:3",
+      "verseId": "PRO.16.3",
+      "location": {
+        "book": "PRO",
+        "chapter": 16,
+        "verseStart": 3,
+        "verseEnd": 3
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Commit your plans to Him.",
+      "context": "A proverb about work and decisions: commit whatever you do to the Lord, and He will establish your plans.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0139",
+      "reference": "Psalm 25:4-5",
+      "verseId": "PSA.25.4-5",
+      "location": {
+        "book": "PSA",
+        "chapter": 25,
+        "verseStart": 4,
+        "verseEnd": 5
+      },
+      "focuses": [
+        "Hope",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Show me Your ways, Lord.",
+      "context": "David's prayer to be shown God's paths and taught His truth, with his hope in God all day long.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0140",
+      "reference": "Isaiah 58:11",
+      "verseId": "ISA.58.11",
+      "location": {
+        "book": "ISA",
+        "chapter": 58,
+        "verseStart": 11,
+        "verseEnd": 11
+      },
+      "focuses": [
+        "Strength",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He will guide you always.",
+      "context": "God promises to guide His people continually, satisfy them in dry places, and make them like a well-watered garden.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0141",
+      "reference": "Psalm 143:8",
+      "verseId": "PSA.143.8",
+      "location": {
+        "book": "PSA",
+        "chapter": 143,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Love",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "Show me the way, this morning.",
+      "context": "David asks to hear of God's unfailing love in the morning and to be shown the way he should go, because he trusts in Him. A good morning prayer.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0142",
+      "reference": "Matthew 6:33",
+      "verseId": "MAT.6.33",
+      "location": {
+        "book": "MAT",
+        "chapter": 6,
+        "verseStart": 33,
+        "verseEnd": 33
+      },
+      "focuses": [
+        "Anxiety & Worry",
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Seek Him first. The rest will follow.",
+      "context": "In the middle of His teaching on worry, Jesus gives the priority: seek God's kingdom and righteousness first, and the needs you worry about will be provided.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0143",
+      "reference": "Psalm 16:11",
+      "verseId": "PSA.16.11",
+      "location": {
+        "book": "PSA",
+        "chapter": 16,
+        "verseStart": 11,
+        "verseEnd": 11
+      },
+      "focuses": [
+        "Peace",
+        "Hope",
+        "Guidance"
+      ],
+      "verseOfTheDay": false,
+      "subtitle": "He makes known the path of life.",
+      "context": "David says God shows him the path of life, and in God's presence there is fullness of joy.",
+      "status": "approved"
+    },
+    {
+      "id": "SP-0144",
+      "reference": "Micah 6:8",
+      "verseId": "MIC.6.8",
+      "location": {
+        "book": "MIC",
+        "chapter": 6,
+        "verseStart": 8,
+        "verseEnd": 8
+      },
+      "focuses": [
+        "Guidance"
+      ],
+      "verseOfTheDay": true,
+      "subtitle": "Do justice, love mercy, walk humbly.",
+      "context": "When people asked what offering would please God, Micah answered simply: act justly, love mercy, and walk humbly with your God.",
+      "status": "approved"
+    }
+  ]
+}
