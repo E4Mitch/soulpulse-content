@@ -85,7 +85,8 @@ jobs:
             exit 0
           fi
           if [ -f library/manifest.json ] && git diff --cached --name-only | grep -q '^library/'; then
-            VERSION=$(grep -m1 '"libraryVersion"' library/manifest.json | tr -dc '0-9')
+            VERSION=$(grep -m1 '"displayVersion"' library/manifest.json | tr -dc '0-9.')
+            [ -n "$VERSION" ] || VERSION=$(grep -m1 '"libraryVersion"' library/manifest.json | tr -dc '0-9')
             MSG="Verse library version $VERSION"
           else
             MSG="Publish result"
